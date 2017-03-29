@@ -1,5 +1,7 @@
 # Higher Order Components
 
+Speaker: Miguel Camba
+
 Basically the same idea as higher order functions -> functions that call functions.
 
 Can use the hash helper to make components that are nested.
